@@ -1,4 +1,4 @@
-This project is the in-progress source code for the future website of the Greater Los Angeles Area Mensa (GLAAM).  Built with TypeScript, React, [Next.js](https://nextjs.org), and [Tailwind CSS](https://tailwindcss.com/), this project aims to replace [the current site](https://www.glaam.org/) with a faster, simpler, and more engaging platform—designed to better serve members and appeal to prospective ones.  While under active development, I welcome contributions other Mensans as well public voluntteers interested in modern web technologies.
+This project is the in-progress source code for the future website of the Greater Los Angeles Area Mensa (GLAAM).  Built with TypeScript, React, [Next.js](https://nextjs.org), and [Tailwind CSS](https://tailwindcss.com/), this project aims to replace [the current site](https://www.glaam.org/) with a faster, simpler, and more engaging platform—designed to better serve members and appeal to prospective ones.  While under active development, I welcome contributions from other Mensans as well public voluntteers interested in modern web technologies.
 
 <!-- ## Getting Started -->
 
