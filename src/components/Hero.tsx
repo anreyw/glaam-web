@@ -3,9 +3,9 @@ import Link from "next/link";
 
 export default function Hero(): React.JSX.Element {
   return (
-    <>
+    <div className="p-6 sm:p-12">
       <header>
-	<nav aria-label="Global" className="flex flex-col sm:flex-row justify-between items-center px-12 py-6">
+	<nav aria-label="Global" className="flex flex-col sm:flex-row justify-between items-center">
           <Image
             src="/glaam-logo.png"
             alt="Logo of the Greater Los Angeles Mensa Area Chapter."
@@ -23,6 +23,6 @@ export default function Hero(): React.JSX.Element {
 Mensa (TM) is an international society which welcomes all persons who have tested within the top two percentile of the population in intelligence. We enjoy a variety of ‘smart’ activities in our local communities, as exemplified in the photos below.  We currently have some 150,000 members worldwide, but we are always looking for more.  Click the Testing link in the menu below to see if you or a loved one is qualified to join us!</p>
 		
       </main>
-    </>
+    </div>
   );
 }
