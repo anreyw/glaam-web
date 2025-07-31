@@ -14,7 +14,7 @@ export default function Hero(): React.JSX.Element {
             height={200}
 	    priority
           />
-	  <Link href="#">Member Resources</Link>
+	  <Link href="#" className="hidden sm:inline-block">Member Resources</Link>
 	</nav>
       </header>
       <main>
