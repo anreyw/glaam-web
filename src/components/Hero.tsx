@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Hero(): React.JSX.Element {
   return (
@@ -13,6 +14,7 @@ export default function Hero(): React.JSX.Element {
             height={200}
 	    priority
           />
+	  <Link href="#">Member Resources</Link>
 	</nav>
       </header>
       <main></main>
