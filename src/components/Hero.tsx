@@ -5,8 +5,15 @@ export default function Hero(): React.JSX.Element {
     <header>
       <nav
 	aria-label="Global"
+	className="flex justify-center"
       >
-	<Image />
+	<Image
+	  src="/glaam-logo.png"
+	  alt="Logo of the Greater Los Angeles Mensa Area Chapter."
+	  className="w-sm"
+	  width={600}
+	  height={200}
+	/>
       </nav>
     </header>
   );
