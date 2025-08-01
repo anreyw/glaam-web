@@ -34,7 +34,7 @@ export default function Hero(): React.JSX.Element {
             />
             <Link
               href="#"
-              className="rounded-md order-first sm:order-none sm:inline-block bg-blue-300 text-sm px-4 py-2 hover:bg-blue-200 hover:outline hover:outline-blue-300 hover:outline-offset-2"
+              className="underline underline-offset-4 decoration-2 text-blue-800 hover:bg-blue-100"
             >
               Click Here for Members-Only Resources
             </Link>
