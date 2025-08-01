@@ -45,14 +45,20 @@ export default function Hero(): React.JSX.Element {
             Where Brilliance Belongs
           </h1>
           <p className="text-lg">
-            Greater Los Angeles Area Mensa (or “GLAAM“) is a local chapter of
-            American Mensa, Ltd. Our territory covers all of Los Angeles and
-            Kern and Inyo counties, along with portions of San Bernardino and
-            Riverside and Ventura counties. Mensa&trade; is an international
-            society which welcomes all persons who have tested within the top
-            two percentile of the population in intelligence. We enjoy a variety
-            of ‘smart’ activities in our local communities. We currently have
-            some 150,000 members worldwide, but we are always looking for more.
+            Greater Los Angeles Area Mensa (or “GLAAM“) is a local chapter of{" "}
+            <a
+              href="https://www.us.mensa.org/"
+              className="underline underline-offset-4 decoration-2 text-blue-800 hover:bg-blue-100"
+            >
+              American Mensa, Ltd
+            </a>
+            . Our territory covers all of Los Angeles and Kern and Inyo
+            counties, along with portions of San Bernardino and Riverside and
+            Ventura counties. Mensa&trade; is an international society which
+            welcomes all persons who have tested within the top two percentile
+            of the population in intelligence. We enjoy a variety of ‘smart’
+            activities in our local communities. We currently have some 150,000
+            members worldwide, but we are always looking for more.
           </p>
           <a
             href="https://www.us.mensa.org/join/"
