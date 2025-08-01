@@ -22,7 +22,7 @@ export default function Hero(): React.JSX.Element {
         <header>
           <nav
             aria-label="Global"
-            className="flex flex-col sm:flex-row justify-between items-center gap-4"
+            className="flex flex-col sm:flex-row justify-between items-center gap-4 max-w-5xl mx-auto"
           >
             <Image
               src="/glaam-logo.png"
