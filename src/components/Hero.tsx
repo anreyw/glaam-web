@@ -41,21 +41,29 @@ export default function Hero(): React.JSX.Element {
           </nav>
         </header>
         <main className="flex flex-col items-center">
-          <div className="flex flex-col items-center max-w-3xl">
+          <div className="flex flex-col items-start max-w-3xl gap-4">
             <h1 className="text-6xl sm:text-5xl py-12">
               Where Brilliance Belongs
             </h1>
             <p className="text-lg">
-              Greater Los Angeles Area Mensa (or “GLAAM“) is a local chapter of{" "}
+              Greater Los Angeles Area Mensa (or "GLAAM") is a local chapter of{" "}
               <a
                 href="https://www.us.mensa.org/"
                 className="underline underline-offset-4 decoration-2 text-blue-800 hover:bg-blue-100"
               >
                 American Mensa, Ltd
               </a>
-              . Our territory covers all of Los Angeles and Kern and Inyo
+              .
+            </p>
+
+            <p className="text-md">
+              Our territory covers all of Los Angeles and Kern and Inyo
               counties, along with portions of San Bernardino and Riverside and
-              Ventura counties. Mensa&trade; is an{" "}
+              Ventura counties.
+            </p>
+
+            <p>
+              Mensa&trade; is an{" "}
               <a
                 href="https://www.mensa.org/"
                 className="underline underline-offset-4 decoration-2 text-blue-800 hover:bg-blue-100"
@@ -74,6 +82,7 @@ export default function Hero(): React.JSX.Element {
             >
               Learn How to Join
             </a>
+            <h2>What is Mensa?</h2>
           </div>
         </main>
       </div>
