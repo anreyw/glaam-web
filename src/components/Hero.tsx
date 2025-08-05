@@ -44,7 +44,7 @@ export default function Hero(): React.JSX.Element {
           <div className="flex flex-col items-start max-w-3xl gap-4">
             <h1 className="text-6xl sm:text-5xl py-12">
               Where Brilliance Belongs
-            </h1>            
+            </h1>
             <a
               href="https://www.us.mensa.org/join/"
               className="rounded-md bg-blue-600 px-3.5 py-2.5 text-md font-semibold text-white shadow-xs hover:bg-blue-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 my-6 block sm:inline-block text-center"
