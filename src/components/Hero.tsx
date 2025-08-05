@@ -44,38 +44,7 @@ export default function Hero(): React.JSX.Element {
           <div className="flex flex-col items-start max-w-3xl gap-4">
             <h1 className="text-6xl sm:text-5xl py-12">
               Where Brilliance Belongs
-            </h1>
-            <p className="text-lg">
-              Greater Los Angeles Area Mensa (or "GLAAM") is a local chapter of{" "}
-              <a
-                href="https://www.us.mensa.org/"
-                className="underline underline-offset-4 decoration-2 text-blue-800 hover:bg-blue-100"
-              >
-                American Mensa, Ltd
-              </a>
-              .
-            </p>
-
-            <p className="text-md">
-              Our territory covers all of Los Angeles and Kern and Inyo
-              counties, along with portions of San Bernardino and Riverside and
-              Ventura counties.
-            </p>
-
-            <p>
-              Mensa&trade; is an{" "}
-              <a
-                href="https://www.mensa.org/"
-                className="underline underline-offset-4 decoration-2 text-blue-800 hover:bg-blue-100"
-              >
-                international society
-              </a>{" "}
-              which welcomes all persons who have tested within the top two
-              percentile of the population in intelligence. We enjoy a variety
-              of ‘smart’ activities in our local communities. We currently have
-              some 150,000 members worldwide, but we are always looking for
-              more.
-            </p>
+            </h1>            
             <a
               href="https://www.us.mensa.org/join/"
               className="rounded-md bg-blue-600 px-3.5 py-2.5 text-md font-semibold text-white shadow-xs hover:bg-blue-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 my-6 block sm:inline-block text-center"
