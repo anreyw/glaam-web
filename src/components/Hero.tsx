@@ -51,7 +51,6 @@ export default function Hero(): React.JSX.Element {
             >
               Learn How to Join
             </a>
-            <h2>What is Mensa?</h2>
           </div>
         </main>
       </div>
