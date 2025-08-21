@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import JoinButton from "@/components/JoinButton";
 
 export default function Hero(): React.JSX.Element {
   return (
@@ -31,12 +32,7 @@ export default function Hero(): React.JSX.Element {
             <h1 className="text-6xl sm:text-5xl py-12">
               Where Brilliance Belongs
             </h1>
-            <a
-              href="https://www.us.mensa.org/join/"
-              className="rounded-md bg-blue-600 px-3.5 py-2.5 text-md font-semibold text-white shadow-xs hover:bg-blue-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 my-6 block sm:inline-block text-center"
-            >
-              Learn How to Join
-            </a>
+            <JoinButton />
           </div>
         </main>
       </div>
