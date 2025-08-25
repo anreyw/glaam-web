@@ -4,7 +4,7 @@ import JoinButton from "@/components/JoinButton";
 
 export default function Hero(): React.JSX.Element {
   return (
-    <>            
+    <>
       <div className="p-6 sm:p-12">
         <header>
           <nav
@@ -23,7 +23,7 @@ export default function Hero(): React.JSX.Element {
               href="#"
               className="underline underline-offset-4 decoration-2 text-blue-800 hover:bg-blue-100"
             >
-              Click Here for Members-Only Resources
+              Members-Only Resources Link
             </Link>
           </nav>
         </header>
