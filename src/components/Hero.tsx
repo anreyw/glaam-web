@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 import JoinButton from "@/components/JoinButton";
 
 export default function Hero(): React.JSX.Element {
