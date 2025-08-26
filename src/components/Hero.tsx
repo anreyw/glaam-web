@@ -19,12 +19,6 @@ export default function Hero(): React.JSX.Element {
               height={200}
               priority
             />
-            <Link
-              href="#"
-              className="underline underline-offset-4 decoration-2 text-blue-800 hover:bg-blue-100"
-            >
-              Members-Only Resources Link
-            </Link>
           </nav>
         </header>
         <main className="flex flex-col items-center">
