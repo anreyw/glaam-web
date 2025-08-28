@@ -90,10 +90,10 @@ export default function Testimonials(): JSX.Element {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">
-            Testimonials
+            Member Testimonials
           </h2>
           <p className="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl dark:text-white">
-            We have worked with thousands of amazing people
+            In Their Own Words
           </p>
         </div>
         <div className="mx-auto mt-16 flow-root max-w-2xl sm:mt-20 lg:mx-0 lg:max-w-none">
