@@ -1,5 +1,6 @@
 import Image from "next/image";
 import JoinButton from "@/components/JoinButton";
+import ResourcesButton from "@/components/ResourcesButton";
 import Background from "@/components/Background";
 
 export default function Hero(): React.JSX.Element {
@@ -25,7 +26,10 @@ export default function Hero(): React.JSX.Element {
         </a>
         , the largest and oldest high-IQ society in the world.
       </p>
-      <JoinButton />
+      <div className="flex flex-col lg:flex-row bg-red-300">
+        <JoinButton />
+        <ResourcesButton />
+      </div>
     </main>
   );
 }
