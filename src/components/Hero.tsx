@@ -4,7 +4,7 @@ import Background from "@/components/Background";
 
 export default function Hero(): React.JSX.Element {
   return (
-    <main className="flex flex-col h-screen justify-center items-center">
+    <main className="flex flex-col h-screen justify-center items-center gap-12">
       <Background />
       <Image
         src="/glaam-logo.png"
@@ -14,10 +14,10 @@ export default function Hero(): React.JSX.Element {
         height={200}
         priority
       />
-      <div className="flex flex-col items-center max-w-3xl">
-        <h1 className="text-6xl sm:text-5xl py-12">Where Brilliance Belongs</h1>
-        <JoinButton />
-      </div>
+      <h1 className="text-5xl lg:text-6xl text-center mx-8">
+        Where Brilliance Belongs
+      </h1>
+      <JoinButton />
     </main>
   );
 }
