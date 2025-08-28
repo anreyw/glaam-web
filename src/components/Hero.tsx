@@ -15,7 +15,9 @@ export default function Hero(): React.JSX.Element {
         height={200}
         priority
       />
-      <h1 className="text-4xl text-center">Where Brilliance Belongs</h1>
+      <h1 className="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
+        Where Brilliance Belongs
+      </h1>
       <p>
         Greater Los Angeles Area Mensa (GLAAM) is a local chapter of{" "}
         <a
