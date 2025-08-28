@@ -26,7 +26,7 @@ export default function Hero(): React.JSX.Element {
         </a>
         , the largest and oldest high-IQ society in the world.
       </p>
-      <div className="flex flex-col lg:flex-row bg-red-300">
+      <div className="flex flex-col sm:flex-row gap-4">
         <JoinButton />
         <ResourcesButton />
       </div>
