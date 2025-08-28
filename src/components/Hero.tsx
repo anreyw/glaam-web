@@ -19,7 +19,7 @@ export default function Hero(): React.JSX.Element {
         Greater Los Angeles Area Mensa (GLAAM) is a local chapter of{" "}
         <a
           href="https://www.mensa.org/"
-          className="underline decoration-2 underline-offset-2"
+          className="underline text-blue-600 hover:bg-blue-100 decoration-2 underline-offset-2"
         >
           Mensa
         </a>
