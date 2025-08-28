@@ -4,7 +4,7 @@ import Background from "@/components/Background";
 
 export default function Hero(): React.JSX.Element {
   return (
-    <main className="flex flex-col h-screen justify-center items-center gap-12">
+    <main className="flex flex-col h-screen justify-start items-center gap-12 py-8">
       <Background />
       <Image
         src="/glaam-logo.png"
