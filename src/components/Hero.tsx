@@ -17,8 +17,13 @@ export default function Hero(): React.JSX.Element {
       <h1 className="text-4xl text-center">Where Brilliance Belongs</h1>
       <p>
         Greater Los Angeles Area Mensa (GLAAM) is a local chapter of{" "}
-        <a href="https://www.mensa.org/">Mensa</a>, the largest and oldest
-        high-IQ society in the world.
+        <a
+          href="https://www.mensa.org/"
+          className="underline decoration-2 underline-offset-2"
+        >
+          Mensa
+        </a>
+        , the largest and oldest high-IQ society in the world.
       </p>
       <JoinButton />
     </main>
