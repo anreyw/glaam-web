@@ -5,7 +5,7 @@ import Background from "@/components/Background";
 
 export default function Hero(): React.JSX.Element {
   return (
-    <main className="flex flex-col justify-start items-center gap-8 pt-8 pb-12 px-6 max-w-2xl mx-auto">
+    <main className="flex flex-col justify-start items-center gap-8 sm:gap-12 sm:pt-16 sm:pb-24 pt-8 pb-12 px-6 max-w-3xl mx-auto">
       <Background />
       <Image
         src="/glaam-logo.png"
@@ -18,7 +18,7 @@ export default function Hero(): React.JSX.Element {
       <h1 className="text-4xl font-medium tracking-tight text-center text-gray-900 sm:text-5xl">
         Where Brilliance Belongs
       </h1>
-      <p>
+      <p className="sm:text-xl text-center">
         Greater Los Angeles Area Mensa (GLAAM) is a local chapter of{" "}
         <a
           href="https://www.mensa.org/"
