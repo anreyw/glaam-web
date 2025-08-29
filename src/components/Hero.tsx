@@ -15,7 +15,7 @@ export default function Hero(): React.JSX.Element {
         height={200}
         priority
       />
-      <h1 className="text-4xl font-semibold tracking-tight text-center text-gray-900 sm:text-5xl">
+      <h1 className="text-4xl font-medium tracking-tight text-center text-gray-900 sm:text-5xl">
         Where Brilliance Belongs
       </h1>
       <p>
