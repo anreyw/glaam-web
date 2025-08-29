@@ -1,12 +1,10 @@
 import Image from "next/image";
 import JoinButton from "@/components/JoinButton";
 import ResourcesButton from "@/components/ResourcesButton";
-import Background from "@/components/Background";
 
 export default function Hero(): React.JSX.Element {
   return (
     <main className="flex flex-col justify-start items-center gap-8 sm:gap-12 sm:pt-16 sm:pb-24 pt-8 pb-12 px-6 max-w-3xl mx-auto">
-      <Background />
       <Image
         src="/glaam-logo.png"
         alt="Logo of the Greater Los Angeles Mensa Area Chapter."
