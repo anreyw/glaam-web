@@ -48,7 +48,7 @@ export default function Testimonials(): JSX.Element {
             Member Testimonials
           </h2>
           <p className="mt-2 text-4xl font-medium tracking-tight text-balance text-gray-900 sm:text-5xl">
-            In Their Own Words
+            In Our Own Words
           </p>
         </div>
         <div className="mx-auto mt-16 flow-root max-w-2xl sm:mt-20 lg:mx-0 lg:max-w-none">
