@@ -2,7 +2,7 @@ import { JSX } from "react";
 
 export default function Background(): JSX.Element {
   return (
-    <div aria-hidden="true" className="absolute inset-0 blur-3xl">
+    <div aria-hidden="true" className="absolute inset-0 blur-3xl -z-40">
       <div
         style={{
           clipPath:
