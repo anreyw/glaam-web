@@ -86,10 +86,10 @@ const testimonials = [
 
 export default function Testimonials(): JSX.Element {
   return (
-    <div className="bg-white py-24 sm:py-32 dark:bg-gray-900">
+    <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">
+          <h2 className="text-base/7 font-semibold text-blue-600">
             Member Testimonials
           </h2>
           <p className="mt-2 text-4xl font-medium tracking-tight text-balance text-gray-900 sm:text-5xl">
@@ -103,21 +103,21 @@ export default function Testimonials(): JSX.Element {
                 key={testimonial.author.name}
                 className="pt-8 sm:inline-block sm:w-full sm:px-4"
               >
-                <figure className="rounded-2xl bg-gray-50 p-8 text-sm/6 dark:bg-white/2.5">
-                  <blockquote className="text-gray-900 dark:text-gray-100">
+                <figure className="rounded-2xl bg-gray-50 p-8 text-sm/6">
+                  <blockquote className="text-gray-900">
                     <p>{`“${testimonial.body}”`}</p>
                   </blockquote>
                   <figcaption className="mt-6 flex items-center gap-x-4">
                     <img
                       alt=""
                       src={testimonial.author.imageUrl}
-                      className="size-10 rounded-full bg-gray-50 dark:bg-gray-800"
+                      className="size-10 rounded-full bg-gray-50"
                     />
                     <div>
-                      <div className="font-semibold text-gray-900 dark:text-white">
+                      <div className="font-semibold text-gray-900">
                         {testimonial.author.name}
                       </div>
-                      <div className="text-gray-600 dark:text-gray-400">{`${testimonial.author.memberSince}`}</div>
+                      <div className="text-gray-600">{`${testimonial.author.memberSince}`}</div>
                     </div>
                   </figcaption>
                 </figure>
