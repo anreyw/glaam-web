@@ -4,7 +4,7 @@ import ResourcesButton from "@/components/ResourcesButton";
 
 export default function Hero(): React.JSX.Element {
   return (
-    <main className="flex flex-col justify-start items-center gap-8 sm:gap-12 sm:pt-16 sm:pb-24 pt-8 pb-12 px-6 max-w-3xl mx-auto">
+    <main className="flex flex-col justify-start items-center gap-8 sm:gap-12 py-8 sm:py-12 px-6 max-w-3xl mx-auto">
       <Image
         src="/glaam-logo.png"
         alt="Logo of the Greater Los Angeles Mensa Area Chapter."
