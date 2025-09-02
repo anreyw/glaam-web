@@ -2,57 +2,57 @@ import { JSX } from "react";
 
 const testimonials = [
   {
-    body: "Laborum quis quam. Dolorum et ut quod quia. Voluptas numquam delectus nihil. Aut enim doloremque et ipsam.",
+    body: "GLAAM turned LA from a big city into a small village for me. Between the monthly speaker nights in Pasadena and the impromptu coffee chats on the Westside, I always leave smarter and smiling. It’s my favorite brain gym.",
     author: {
-      name: "Leslie Alexander",
-      memberSince: "Member since 2012",
+      name: "Leslie A.",
+      memberSince: "Member since 2020",
       imageUrl:
         "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
     },
   },
   {
-    body: "Anim sit consequat culpa commodo eu do nisi commodo ut aute aliqua. Laborum esse duis tempor consectetur officia mollit fugiat. Exercitation qui elit minim minim quis fugiat ex.",
+    body: "I crave conversations that leap from astrophysics to improv in a single breath. This chapter delivers, with kind, curious people who listen as hard as they think. I came for the puzzle nights and stayed for the friendships.",
     author: {
       name: "Michael Foster",
-      memberSince: "michaelfoster",
+      memberSince: "Member since 2022",
       imageUrl:
         "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
     },
   },
   {
-    body: "Consequatur ut atque. Itaque nostrum molestiae id veniam eos cumque.",
+    body: "Teaching all day, I rarely get to be the student. At GLAAM meetups, I’m challenged, supported, and inspired by everyone’s generosity. The weekend salons are my reset button.",
     author: {
       name: "Dries Vincent",
-      memberSince: "driesvincent",
+      memberSince: "Member since 2010",
       imageUrl:
         "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
     },
   },
   {
-    body: "Excepteur consectetur deserunt id incididunt veniam mollit officia sint qui aute duis sit cillum. Reprehenderit fugiat amet aliqua in commodo minim sunt laborum.",
+    body: "I missed sharp edits—on ideas. Our film-and-philosophy SIG pairs screenings with lively, respectful debates. It feels like a thrilling ‘second career.",
     author: {
-      name: "John Mac",
+      name: "Lindsay Walton",
       memberSince: "Member since 2019",
       imageUrl:
         "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
     },
   },
   {
-    body: "Excepteur consectetur deserunt id incididunt veniam mollit officia sint qui aute duis sit cillum. Reprehenderit fugiat amet aliqua in commodo minim sunt laborum.",
+    body: "The constant has been the people: curious, generous, and quick to laugh. The salons keep my mind nimble, and the younger members keep me optimistic. It’s been my favorite lifelong classroom.",
     author: {
-      name: "Aubrey Some",
-      memberSince: "Member since 2025",
+      name: "Tom Cook",
+      memberSince: "Member since 1970",
       imageUrl:
-        "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
     },
   },
   {
-    body: "Excepteur consectetur deserunt id incididunt veniam mollit officia sint qui aute duis sit cillum. Reprehenderit fugiat amet aliqua in commodo minim sunt laborum.",
+    body: "Game nights are legendary—equal parts strategy, laughter, and ‘aha!’ moments. I’ve even play-tested prototypes with members. Creative fuel, every time.",
     author: {
-      name: "Lindsay Walton",
-      memberSince: "lindsaywalton",
+      name: "Whitney Francis",
+      memberSince: "Member since 2001",
       imageUrl:
-        "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "https://images.unsplash.com/photo-1517365830460-955ce3ccd263?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
     },
   },
 ];
