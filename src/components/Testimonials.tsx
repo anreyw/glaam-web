@@ -13,7 +13,7 @@ const testimonials = [
   {
     body: "I crave conversations that leap from astrophysics to improv in a single breath. This chapter delivers, with kind, curious people who listen as hard as they think. I came for the puzzle nights and stayed for the friendships.",
     author: {
-      name: "Michael Foster",
+      name: "Michael F.",
       memberSince: "Member since 2022",
       imageUrl:
         "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
@@ -22,7 +22,7 @@ const testimonials = [
   {
     body: "Teaching all day, I rarely get to be the student. At GLAAM meetups, I’m challenged, supported, and inspired by everyone’s generosity. The weekend salons are my reset button.",
     author: {
-      name: "Dries Vincent",
+      name: "Dries V.",
       memberSince: "Member since 2010",
       imageUrl:
         "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
@@ -31,7 +31,7 @@ const testimonials = [
   {
     body: "I missed sharp edits—on ideas. Our film-and-philosophy SIG pairs screenings with lively, respectful debates. It feels like a thrilling ‘second career.",
     author: {
-      name: "Lindsay Walton",
+      name: "Lindsay W.",
       memberSince: "Member since 2019",
       imageUrl:
         "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
@@ -40,7 +40,7 @@ const testimonials = [
   {
     body: "The constant has been the people: curious, generous, and quick to laugh. The salons keep my mind nimble, and the younger members keep me optimistic. It’s been my favorite lifelong classroom.",
     author: {
-      name: "Tom Cook",
+      name: "Tom C.",
       memberSince: "Member since 1970",
       imageUrl:
         "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
@@ -49,7 +49,7 @@ const testimonials = [
   {
     body: "Game nights are legendary—equal parts strategy, laughter, and ‘aha!’ moments. I’ve even play-tested prototypes with members. Creative fuel, every time.",
     author: {
-      name: "Whitney Francis",
+      name: "Whitney F.",
       memberSince: "Member since 2001",
       imageUrl:
         "https://images.unsplash.com/photo-1517365830460-955ce3ccd263?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
