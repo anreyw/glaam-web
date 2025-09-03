@@ -6,18 +6,27 @@ export default function About(): JSX.Element {
       <div className="mx-auto max-w-7xl px-6 lg:flex lg:px-8">
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-12 gap-y-16 lg:mx-0 lg:max-w-none lg:min-w-full lg:flex-none lg:gap-y-8">
           <div className="lg:col-end-1 lg:w-full lg:max-w-lg lg:pb-8">
-            <h2 className="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl dark:text-white">
+            <h2 className="text-4xl font-medium tracking-tight text-gray-900 sm:text-5xl dark:text-white">
               About Us
             </h2>
             <p className="mt-6 text-xl/8 text-gray-700 dark:text-gray-300">
-              Quasi est quaerat. Sit molestiae et. Provident ad dolorem
-              occaecati eos iste. Soluta rerum quidem minus ut molestiae velit
-              error quod. Excepturi quidem expedita molestias quas.
+              Founded in 1962, Greater Los Angeles Area Mensa is one of the
+              oldest chapters of{" "}
+              <a
+                href="https://https://www.us.mensa.org/"
+                className="underline hover:no-underline text-blue-600 underline-offset-2"
+              >
+                American Mensa
+              </a>
+              . Our group serves all of Los Angeles, Kern, and Inyo counties,
+              along with portions of San Bernardino, Riverside, and Ventura
+              counties.
             </p>
             <p className="mt-6 text-base/7 text-gray-600 dark:text-gray-400">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
-              lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat
-              fugiat. Quasi aperiam sit non sit neque reprehenderit.
+              Our purpose is to identify and foster human intelligence for the
+              benefit of humanity; to encourage research in the nature,
+              characteristics, and uses of intelligence; and to provide a
+              stimulating intellectual and social environment for members.
             </p>
           </div>
           <div className="flex flex-wrap items-start justify-end gap-6 sm:gap-8 lg:contents">
