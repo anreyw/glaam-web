@@ -3,5 +3,5 @@ export default function MembersLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return <div className="pt-24 flex justify-center">{children}</div>;
+  return <div className="pt-24 sm:pt-36 flex justify-center">{children}</div>;
 }
