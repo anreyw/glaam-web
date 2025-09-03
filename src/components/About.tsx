@@ -2,7 +2,7 @@ import { JSX } from "react";
 
 export default function About(): JSX.Element {
   return (
-    <div className="mt-32 overflow-hidden sm:mt-40">
+    <div className="mt-18 overflow-hidden sm:mt-24">
       <div className="mx-auto max-w-7xl px-6 lg:flex lg:px-8">
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-12 gap-y-16 lg:mx-0 lg:max-w-none lg:min-w-full lg:flex-none lg:gap-y-8">
           <div className="lg:col-end-1 lg:w-full lg:max-w-lg lg:pb-8">
@@ -18,9 +18,9 @@ export default function About(): JSX.Element {
               >
                 American Mensa
               </a>
-              . Our group serves all of Los Angeles, Kern, and Inyo counties,
-              along with portions of San Bernardino, Riverside, and Ventura
-              counties.
+              . Our group serves Mensans in all of Los Angeles, Kern, and Inyo
+              counties, along with portions of San Bernardino, Riverside, and
+              Ventura counties.
             </p>
             <p className="mt-6 text-base/7 text-gray-600 dark:text-gray-400">
               Our purpose is to identify and foster human intelligence for the
