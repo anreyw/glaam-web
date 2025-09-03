@@ -9,7 +9,7 @@ export default function About(): JSX.Element {
             <h2 className="text-4xl font-medium tracking-tight text-gray-900 sm:text-5xl dark:text-white">
               About Us
             </h2>
-            <p className="mt-6 text-xl/8 text-gray-700 dark:text-gray-300">
+            <p className="mt-6 text-xl/8">
               Founded in 1962, Greater Los Angeles Area Mensa is one of the
               oldest chapters of{" "}
               <a
@@ -22,7 +22,7 @@ export default function About(): JSX.Element {
               counties, along with portions of San Bernardino, Riverside, and
               Ventura counties.
             </p>
-            <p className="mt-6 text-base/7 text-gray-600 dark:text-gray-400">
+            <p className="mt-6 text-base/7">
               Our purpose is to identify and foster human intelligence for the
               benefit of humanity; to encourage research in the nature,
               characteristics, and uses of intelligence; and to provide a
