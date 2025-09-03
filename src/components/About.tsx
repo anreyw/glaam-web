@@ -23,10 +23,12 @@ export default function About(): JSX.Element {
               Ventura counties.
             </p>
             <p className="mt-6 text-base/7">
-              Our purpose is to identify and foster human intelligence for the
-              benefit of humanity; to encourage research in the nature,
-              characteristics, and uses of intelligence; and to provide a
-              stimulating intellectual and social environment for members.
+              Open to those who have tested within the top 2% of a qualifying
+              intelligence test, our group's purposes are to identify and foster
+              human intelligence for the benefit of humanity; to encourage
+              research in the nature, characteristics, and uses of intelligence;
+              and to provide a stimulating intellectual and social environment
+              for our members.
             </p>
           </div>
           <div className="flex flex-wrap items-start justify-end gap-6 sm:gap-8 lg:contents">
