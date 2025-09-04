@@ -3,6 +3,7 @@ import Testimonials from "@/components/Testimonials";
 import Background from "@/components/Background";
 import Footer from "@/components/Footer";
 import About from "@/components/About";
+import CallToAction from "@/components/CallToAction";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <Hero />
       <About />
       <Testimonials />
+      <CallToAction />
       <Footer />
     </>
   );
