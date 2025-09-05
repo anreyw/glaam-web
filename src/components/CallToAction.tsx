@@ -1,3 +1,5 @@
+import JoinButton from "@/components/JoinButton";
+
 export default function CallToAction(): React.JSX.Element {
   return (
     <section className="mx-auto max-w-2xl text-center">
