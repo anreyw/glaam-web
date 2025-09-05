@@ -3,7 +3,7 @@ export default function CallToAction(): React.JSX.Element {
     <section className="mx-auto max-w-2xl text-center">
       <hgroup>
         <h2 className="text-base/7 font-semibold text-blue-600 dark:text-indigo-400">
-          Get started
+          Join Greater Los Angeles Area Mensa
         </h2>
         <p className="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl dark:text-white">
           Boost your productivity. Start using our app today.
