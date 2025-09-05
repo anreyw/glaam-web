@@ -1,6 +1,6 @@
 export default function CallToAction(): React.JSX.Element {
   return (
-    <div className="mx-auto max-w-2xl text-center">
+    <section className="mx-auto max-w-2xl text-center">
       <hgroup>
         <h2 className="text-base/7 font-semibold text-blue-600 dark:text-indigo-400">
           Get started
@@ -21,6 +21,6 @@ export default function CallToAction(): React.JSX.Element {
           Get started
         </a>
       </div>
-    </div>
+    </section>
   );
 }
