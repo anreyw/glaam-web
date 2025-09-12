@@ -38,7 +38,7 @@ const navigation = [
   },
   {
     name: 'YouTube',
-    href: '#',
+    href: 'https://www.youtube.com/@greaterlosangelesareamensa4341',
     icon: (props: SVGProps<SVGSVGElement>) => (
       <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
         <path
