@@ -7,12 +7,11 @@ export default function Contact(): JSX.Element {
         <div className="relative px-6 pt-24 pb-20 sm:pt-32 lg:static lg:px-8 lg:py-48">
           <div className="mx-auto max-w-xl lg:mx-0 lg:max-w-lg">
             <h2 className="text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl dark:text-white">
-              Get in touch
+              Contact
             </h2>
             <p className="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">
-              Proin volutpat consequat porttitor cras nullam gravida at. Orci
-              molestie a eu arcu. Sed ut tincidunt integer elementum id sem.
-              Arcu sed malesuada et magna.
+              Have a question or concern? Want to talk to a member of Greater
+              Los Angeles Mensa? Not sure if you belong? Get in touch!
             </p>
             <dl className="mt-10 space-y-4 text-base/7 text-gray-600 dark:text-gray-300">
               <div className="flex gap-x-4">
