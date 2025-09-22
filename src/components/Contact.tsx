@@ -11,7 +11,8 @@ export default function Contact(): JSX.Element {
             </h2>
             <p className="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">
               Have a question or concern? Want to talk to a member of Greater
-              Los Angeles Mensa? Not sure if you belong? Get in touch!
+              Los Angeles Mensa? Wondering if you should join or not? Get in
+              touch!
             </p>
             <dl className="mt-10 space-y-4 text-base/7 text-gray-600 dark:text-gray-300">
               <div className="flex gap-x-4">
