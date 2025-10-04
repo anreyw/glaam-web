@@ -20,7 +20,7 @@ export default function About(): JSX.Element {
               </a>
               . Our group serves roughly 1,600 Mensans, covering all of Los
               Angeles, Kern, and Inyo counties, along with portions of San
-              Bernardino, Riverside, and Ventura counties.
+              Bernardino, Riverside, Mono, and Ventura counties.
             </p>
             <p className="mt-6 text-base/7">
               Open to those who have tested within the top 2% of a qualifying
